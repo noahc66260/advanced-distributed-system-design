@@ -1,4 +1,4 @@
-# advanced-distributed-system-design
+# Advanced Distributed System Design
 Deriving hypserscale cloud service architectures from first principles
 
 Most system design education focuses on interview preparation, where time constraints limit architectural reasoning. However, modern cloud services are built using substantially deeper architectural reasoning involving scale, availability, reliability, and failure recovery.
